@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    margin: 0px;
+    font-family: verdana;
+    color: white;
+}
+
+div.header {
+    background-color: powderblue;
+    padding: 5px;
+}
+
+div.imgheader {
+    margin: 0px;
+    width: 100%;	
+}
+
+nav {
+    background-color: powderblue;
+    padding: 10px;
+    margin: -4px 0px 0px 0px;
+}
+
+div.about {
+    margin: 50px 200px;
+    padding: 2px 20px 20px 20px;
+    border-radius: 60px;
+    background-color: powderblue;
+}
+
+div.harga {
+    background-color: powderblue;
+    margin: 50px 300px;
+    padding-bottom: 10px;
+    border-bottom-left-radius: 20px; 
+    border-bottom-right-radius: 20px;
+}
+
+div.menu {
+    background-color: powderblue;
+    margin: 50px;
+    padding: 0px 20px 20px 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+table {
+    border-spacing: 15px;
+    margin: auto;
+}
+
+div.cabang {
+    background-color: powderblue;
+    padding: 0px 20px 20px 20px;
+    margin: 20px 300px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px
+}
